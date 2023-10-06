@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1e19f5-b72c-4f52-82c5-4a336971c978" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/decrypting_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/exchange_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/prime_number_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/list_statistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/numbers_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/strange_zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/absolute_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/calculate_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/repeat_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_lab/rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/faro_shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/football_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/invert_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/multiples_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/number_beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/survival_of_the_biggest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +50,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.numbers_filter">
-    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rounding">
+    <configuration name="calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/calculate_rectangle_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_statistic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/list_statistic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/calculations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/numbers_filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/repeat_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strange_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/strange_zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.numbers_filter" />
-        <item itemvalue="Python.search" />
-        <item itemvalue="Python.list_statistic" />
-        <item itemvalue="Python.courses" />
-        <item itemvalue="Python.strange_zoo" />
+        <item itemvalue="Python.rounding" />
+        <item itemvalue="Python.calculate_rectangle_area" />
+        <item itemvalue="Python.orders" />
+        <item itemvalue="Python.repeat_string" />
+        <item itemvalue="Python.calculations" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +193,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_basic_exercise/football_cards.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_basic_exercise/number_beggars.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
