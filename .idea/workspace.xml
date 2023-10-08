@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1e19f5-b72c-4f52-82c5-4a336971c978" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function_lab/absolute_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/calculate_rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/repeat_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_lab/rounding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/faro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basic_exercise/survival_of_the_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/add_and_subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/characters_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/even_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/factorial_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/min_max_and_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/odd_and_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/palindrome_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/smallest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_exercise/sort_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +50,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.rounding">
-    <configuration name="calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.factorial_division">
+    <configuration name="factorial_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/calculate_rectangle_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/factorial_division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loading_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/calculations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/loading_bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="min_max_and_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/orders.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/min_max_and_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome_integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/repeat_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/palindrome_integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="perfect_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_lab/rounding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/perfect_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rounding" />
-        <item itemvalue="Python.calculate_rectangle_area" />
-        <item itemvalue="Python.orders" />
-        <item itemvalue="Python.repeat_string" />
-        <item itemvalue="Python.calculations" />
+        <item itemvalue="Python.factorial_division" />
+        <item itemvalue="Python.loading_bar" />
+        <item itemvalue="Python.perfect_number" />
+        <item itemvalue="Python.palindrome_integers" />
+        <item itemvalue="Python.min_max_and_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +201,33 @@
           <url>file://$PROJECT_DIR$/lists_basic_exercise/number_beggars.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/characters_in_range.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/characters_in_range.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/perfect_number.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/perfect_number.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/factorial_division.py</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function_exercise/factorial_division.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
