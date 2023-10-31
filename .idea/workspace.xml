@@ -2,11 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a1e19f5-b72c-4f52-82c5-4a336971c978" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/list_advance_lab/no_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_advance_lab/sorting_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_advance_lab/to_do_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_advance_lab/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops/number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_exercise/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_exercise/town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_lab/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_lab/comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_lab/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_lab/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects_and_classes_lab/zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/01. Integer Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/01. Integer Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/02. Chars to String.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/02. Chars to String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/03. Elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/03. Elevator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/04. Sum of Chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/04. Sum of Chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/05. Print Part of the ASCII Tabl.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/05. Print Part of the ASCII Tabl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/06. Triples of Latin Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/06. Triples of Latin Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/07. Water Overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/07. Water Overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/08. Party Profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/08. Party Profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/09. Snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/09. Snowballs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Exercise/10. Gladiator Expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables _exercise/10. Gladiator Expenses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/01. Concat Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/01. Concat Names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/02. Convert Meters to Kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/02. Convert Meters to Kilometers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/03. Pounds to Dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/03. Pounds to Dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/04. Centuries to Minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/04. Centuries to Minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/05. Special Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/05. Special Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Types and Variables - Lab/06. Next Happy Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/06. Next Happy Year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +60,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GuessANumberByDimitar/Hangman-Game/the_game/game.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.sorting_names">
-    <configuration name="factorial_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.class">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objects_and_classes_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise/factorial_division.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects_and_classes_exercise/class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="no_vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_advance_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objects_and_classes_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_advance_lab/no_vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects_and_classes_lab/email.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorting_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_advance_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objects_and_classes_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_advance_lab/sorting_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects_and_classes_lab/party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="to_do_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_advance_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objects_and_classes_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_advance_lab/to_do_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects_and_classes_exercise/town.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-with-Python---september-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_advance_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objects_and_classes_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_advance_lab/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objects_and_classes_lab/zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sorting_names" />
-        <item itemvalue="Python.to_do_list" />
-        <item itemvalue="Python.train" />
-        <item itemvalue="Python.no_vowels" />
-        <item itemvalue="Python.factorial_division" />
+        <item itemvalue="Python.class" />
+        <item itemvalue="Python.town" />
+        <item itemvalue="Python.zoo" />
+        <item itemvalue="Python.email" />
+        <item itemvalue="Python.party" />
       </list>
     </recent_temporary>
   </component>
